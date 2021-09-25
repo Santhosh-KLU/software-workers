@@ -1,2 +1,1 @@
-# software-workers
-This is my first Product
+I am a new person who helps the others..
